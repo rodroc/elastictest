@@ -1,0 +1,11 @@
+vendor
+public/vendor
+_exclude
+composer.json.*
+composer.phar
+composer.lock
+*.php.*
+*.LOG
+*.js.*
+*.twig.*
+

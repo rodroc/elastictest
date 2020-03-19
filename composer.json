@@ -1,0 +1,19 @@
+{
+    "name": "rodroc/elastictest56",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-0": {
+            "": "src/"           
+        }
+    },
+    "require": {
+        "silex/silex": "~2.0",
+        "twig/twig": "~1.26",
+        "hassankhan/config": "~0.10",
+        "elasticsearch/elasticsearch": "~5.0",
+        "composer/ca-bundle": "~1.0",
+        "symfony/process": "~3.2",
+        "phpoffice/phpexcel": "~1.8"
+    }
+}
